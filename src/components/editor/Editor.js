@@ -10,7 +10,6 @@ class Editor extends React.Component {
             textToRender: placeholder
         }
         this.handleChange = this.handleChange.bind(this);
-        this.handleClick = this.handleClick.bind(this);
     }
 
     handleChange(e) {
