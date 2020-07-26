@@ -1,0 +1,19 @@
+#rendered-textarea {
+    white-space: pre-line;
+    /* border-color: aqua; */
+    border: 1px solid #fff;
+    word-wrap: break-word;
+    padding: 0 10px;
+    background-color: azure;
+}
+
+#rendered-textarea pre {
+    background-color:#f07342;
+    color: whitesmoke;
+    padding: 5px;
+}
+
+.viewer {
+    margin: 18px auto;
+    width: 650px;
+}

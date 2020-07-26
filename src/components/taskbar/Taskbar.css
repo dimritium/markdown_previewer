@@ -1,0 +1,14 @@
+#taskbar {
+    display: flex;
+    width: inherit;
+    background-color: #f15a1f;
+    padding: 5px;
+    color: #fff;
+}
+
+.icon {
+    flex: 1
+}
+.title {
+    flex: 15;
+}
