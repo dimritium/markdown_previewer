@@ -13,6 +13,12 @@
     padding: 5px;
 }
 
+#rendered-textarea p code {
+    background-color:#f07342;
+    color: whitesmoke;
+    padding: 5px;
+}
+
 .viewer {
     margin: 18px auto;
     width: 650px;
