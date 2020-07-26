@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dimritium/markdown_previewer/static/css/main.80041b41.chunk.css",
+    "main.js": "/dimritium/markdown_previewer/static/js/main.2677a7a6.chunk.js",
+    "main.js.map": "/dimritium/markdown_previewer/static/js/main.2677a7a6.chunk.js.map",
+    "runtime-main.js": "/dimritium/markdown_previewer/static/js/runtime-main.7de16f56.js",
+    "runtime-main.js.map": "/dimritium/markdown_previewer/static/js/runtime-main.7de16f56.js.map",
+    "static/css/2.2ff3ccb9.chunk.css": "/dimritium/markdown_previewer/static/css/2.2ff3ccb9.chunk.css",
+    "static/js/2.da37e847.chunk.js": "/dimritium/markdown_previewer/static/js/2.da37e847.chunk.js",
+    "static/js/2.da37e847.chunk.js.map": "/dimritium/markdown_previewer/static/js/2.da37e847.chunk.js.map",
+    "index.html": "/dimritium/markdown_previewer/index.html",
+    "precache-manifest.5c67bcf63c62dbfedf8bd9830a93469f.js": "/dimritium/markdown_previewer/precache-manifest.5c67bcf63c62dbfedf8bd9830a93469f.js",
+    "service-worker.js": "/dimritium/markdown_previewer/service-worker.js",
+    "static/css/2.2ff3ccb9.chunk.css.map": "/dimritium/markdown_previewer/static/css/2.2ff3ccb9.chunk.css.map",
+    "static/css/main.80041b41.chunk.css.map": "/dimritium/markdown_previewer/static/css/main.80041b41.chunk.css.map",
+    "static/js/2.da37e847.chunk.js.LICENSE.txt": "/dimritium/markdown_previewer/static/js/2.da37e847.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/dimritium/markdown_previewer/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7de16f56.js",
+    "static/css/2.2ff3ccb9.chunk.css",
+    "static/js/2.da37e847.chunk.js",
+    "static/css/main.80041b41.chunk.css",
+    "static/js/main.2677a7a6.chunk.js"
+  ]
+}
