@@ -12,3 +12,9 @@
 .title {
     flex: 15;
 }
+
+@media screen and (max-width: 500px) {
+    .title {
+        flex: 10;
+    }
+  }
