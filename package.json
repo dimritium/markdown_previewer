@@ -11,7 +11,7 @@
     "autoprefixer": "^9.8.5",
     "colorette": "^1.2.1",
     "font-awesome": "^4.7.0",
-    "marked": "^1.1.1",
+    "marked": "^2.0.0",
     "node": "^14.5.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
